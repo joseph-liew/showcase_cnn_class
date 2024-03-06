@@ -1,7 +1,7 @@
-# CNN model to classify handwritten digits
-## (Jupyter notebook)
+# CNN Model to Classify Handwritten Digits
+## _A Jupyter Notebook_
 
-MNIST_Handwriting_CNN_v1.1
+Version MNIST_Handwriting_CNN_v1.1
 
 ## Abstract
   - This notebook demonstrates development of a high performance Convoluted Neural Network (CNN).
