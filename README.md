@@ -1,9 +1,10 @@
 # CNN model to classify handwritten digits
+## (Jupyter notebook)
 
 MNIST_Handwriting_CNN_v1.1
 
 ## Abstract
-  - Project demonstrates development of a high performance Convoluted Neural Network (CNN).
+  - This notebook demonstrates development of a high performance Convoluted Neural Network (CNN).
   - Model classifies handwritten digits from MNIST dataset.
   - A high accuracy and F1 model was achieved. (Score: 0.9889 respectively)
   - High performance achieved with **shallow CNN** and **10 training epochs**.
